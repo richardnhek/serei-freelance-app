@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>896297517998-crd2lsamq4sgupl5psjhke2j2e1bnaec.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.896297517998-crd2lsamq4sgupl5psjhke2j2e1bnaec</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>896297517998-mo79sr0d98enshru152n42u4u75cdi3n.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQEmE9Qqm41bxuC7EBO19_8BXtpie-7ck</string>
+	<key>GCM_SENDER_ID</key>
+	<string>896297517998</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.reahu.sereiapp</string>
+	<key>PROJECT_ID</key>
+	<string>serei-a1634</string>
+	<key>STORAGE_BUCKET</key>
+	<string>serei-a1634.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:896297517998:ios:601d7424414cc55a307e3f</string>
+</dict>
+</plist>

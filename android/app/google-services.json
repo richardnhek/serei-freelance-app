@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "896297517998",
+    "project_id": "serei-a1634",
+    "storage_bucket": "serei-a1634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896297517998:android:662fa7c8664689c6307e3f",
+        "android_client_info": {
+          "package_name": "com.reahu.sereiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896297517998-mo79sr0d98enshru152n42u4u75cdi3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reahu.sereiapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "896297517998-tr7kvu3hcpks64ukqi1pcq67u2s1hp0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reahu.sereiapp",
+            "certificate_hash": "9224f06ef8ecbbc556dc1f8acd8ffbe280c186ea"
+          }
+        },
+        {
+          "client_id": "896297517998-5sd9rnnb1k46rauusp3lr1lj1to8l0os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvw9Cfn9exSQ1MTSdTckQ53tbWojl7JwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896297517998-5sd9rnnb1k46rauusp3lr1lj1to8l0os.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "896297517998-crd2lsamq4sgupl5psjhke2j2e1bnaec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reahu.sereiapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
